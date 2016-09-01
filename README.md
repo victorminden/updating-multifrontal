@@ -5,7 +5,7 @@ Based on the updating technique described by [Minden et al.] (http://dx.doi.org/
 
 On its own, this updating scheme applied to the multifrontal method should not attain greater than a constant factor speed-up compared to updating anew, but I have received requests that this implementation be made available.  A corresponding description of the initial implementation is available in my class project write-up [here](https://victorminden.github.io/docs/project_cme335.pdf).
 
-This is primarily personal research code and therefore is provided as-is with minimal documentation.
+This is primarily personal research code and therefore is provided as-is with minimal documentation.  Further, as it is stepping-stone code on the way to more complicated methods, it is not necessarily the most efficient when applied specifically to the multifrontal case.
 
 
 ### How do I get set up? ###
