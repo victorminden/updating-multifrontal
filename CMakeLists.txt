@@ -39,8 +39,7 @@ add_compile_options(-mkl=sequential)
 endif()
 
 # subdirectories
-#subdirs(test_src ex_src)
-subdirs(ex_src)
+subdirs(test_src)
 
 # Find BLAS/LAPACK libraries
 if(NOT MATH_LIBS)

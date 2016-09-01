@@ -63,7 +63,7 @@ int main(int argc, char* argv[]) {
 
 
 	// testProblemRandom(Nx, Ny, width);
-	// testProblemUpdating(Nx, Ny, width);
+	testProblemUpdating(Nx, Ny, width);
 	// testProblemUpdating(23, 57, width);
 	// testProblemUpdating(48, 75, width);
 	// testProblemUpdating(212, 95, width);

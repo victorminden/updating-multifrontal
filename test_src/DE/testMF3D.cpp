@@ -50,7 +50,7 @@ int main(int argc, char* argv[]) {
 		width = atoi(argv[4]);
 	}
 	//cout << "UNIFORM TEST PROBLEM" << endl;
-	//testProblemUniform(Nx,Ny,Nz,width);
+	testProblemUniform(Nx,Ny,Nz,width);
 	// testProblemUniform(16,16,16,width);
 	// testProblemUniform(24,24,24,width);
 	// testProblemUniform(32,32,32,width);
@@ -64,9 +64,9 @@ int main(int argc, char* argv[]) {
 	//testProblemUniform(128,128,128,width);
 	//testProblemUniform(256,256,256,width);
 	// cout << "RANDOM TEST PROBLEM" << endl;
-	testProblemRandom(Nx,Ny,Nz,width);
+	//testProblemRandom(Nx,Ny,Nz,width);
 	// cout << "UPDATING TEST PROBLEM" << endl;
-	// testProblemUpdating(Nx, Ny, Nz, width);
+	testProblemUpdating(Nx, Ny, Nz, width);
 
 	// testProblemUpdating(16,16,16,width);
 	// testProblemUpdating(24,24,24,width);
