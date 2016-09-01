@@ -1,7 +1,7 @@
 # README #
+Joint work with Anil Damle, Ken Ho, and Lexing Ying.
 
-This is a cpp template library for building the Hierarchical interpolative factorization for a variety of cases (2D, 3D, differential equation, integral equation) as well as updating it efficiently in response to localized perturbations.
-
+To do: documentation.
 
 ### How do I get set up? ###
 
